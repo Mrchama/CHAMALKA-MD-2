@@ -28,7 +28,7 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD:NyazianHandful',
 POSTGRESQL_URL: process.env.POSTGRESQL_URL || 'postgres://izumimd_meje_user:0Vhm5vKGZ7ORt2FlJBQf4d6EtRdeuE8z@dpg-cn0o2imn7f5s73fa46q0-a.frankfurt-postgres.render.com/izumimd_meje',
 PREFIX:  process.env.PREFIX || ['.'] ,
-LANG:  process.env.LANG || 'SI' ,    
+LANG:  process.env.LANG || 'EN' ,    
 ANTI_BAD: process.env.ANTI_BAD || true  ,
 AUTO_REACT:  process.env.AUTO_REACT  || true  ,    
 AUTO_TYPING:  process.env.AUTO_TYPING  || true  ,
